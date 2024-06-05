@@ -1,0 +1,131 @@
+/*=========== extra small ==========*/
+@media (max-width: 575.98px) {
+  .navbar {
+    margin-top: 15px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    padding-left: 35px;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    background: #fce0cd;
+    padding-bottom: 42px;
+    padding-top: 20px;
+  }
+  .hire-me a {
+    padding: 5px 20px;
+  }
+  .hire-me {
+    margin-top: 10px;
+  }
+  .banner-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+  }
+  #about {
+    margin: 50px 0px;
+  }
+  .about-bg {
+    padding: 50px 0;
+  }
+
+  #service .card {
+    margin-top: 20px;
+  }
+}
+/*=========== small ==========*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .navbar {
+    margin-top: 15px;
+  }
+  .navbar-nav .nav-item .nav-link {
+    padding-left: 35px;
+  }
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    background: #fce0cd;
+    padding-bottom: 42px;
+    padding-top: 20px;
+  }
+  .hire-me a {
+    padding: 5px 20px;
+  }
+  .hire-me {
+    margin-top: 10px;
+  }
+  .banner-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+  }
+  #about .about_content p {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  .about-bg {
+    padding: 50px 0;
+  }
+  #about .about_content .about_inner_content .info .info1 {
+    padding-top: 20px;
+  }
+  #service .card {
+    margin-top: 20px;
+  }
+  #summary .inner_summary_content h4 {
+    font-size: 21px;
+  }
+  #summary .inner_summary_content h5 {
+    font-size: 18px;
+  }
+  #summary .inner_summary_content_last h4 {
+    font-size: 21px;
+  }
+ 
+}
+/*=========== Medium ==========*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar {
+    margin-top: 15px;
+  }
+  .banner-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+  }
+  #about .about_content p {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  .about-bg {
+    padding: 50px 0;
+  }
+  #about .about_content .about_inner_content .info .info1 {
+    padding-top: 20px;
+  }
+  #service .card {
+    margin-top: 20px;
+  }
+  #summary .inner_summary_content h4 {
+    font-size: 21px;
+  }
+  #summary .inner_summary_content h5 {
+    font-size: 18px;
+  }
+  #summary .inner_summary_content_last h4 {
+    font-size: 21px;
+  }
+}
+/*=========== extra small ==========*/
+/*=========== extra small ==========*/
+/*=========== extra small ==========*/
